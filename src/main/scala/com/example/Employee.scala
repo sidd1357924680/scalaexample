@@ -1,6 +1,6 @@
 package com.example
 
-class Employee (var name : String , var salary : Int) {
+class Employee(var name: String, var salary: Int) {
   var dept = 0
 
   def printEmployee() = {
